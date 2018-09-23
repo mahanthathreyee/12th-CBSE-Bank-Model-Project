@@ -2,7 +2,7 @@
 
 This was my 12th (CBSE) C++ project
 
-I would like to thank my Computer teacher Prof. FACIN A. MATHAI who helped me understand C++ and was the reason for continued my passion towards programming. Thank you sir for you immense support.
+I would like to thank my Computer teacher Prof. Facin A. Mathai who helped me understand C++ and was the reason for continued my passion towards programming. Thank you sir for you immense support.
 
 The project was mainly used demonstrate my skills in file handling, classes, structure and also including other various features of C++.
 
